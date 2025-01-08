@@ -5,3 +5,4 @@
 # Observações:
 1. O sistema de coordenadas da câmera foi elaborado especificamente para a webcam de um notebook posicionada a aproximadamente um metro de distância da face do alvo, então adaptações provavelmente serão necessárias.
 2. Os projetos de impressão 3D podem sofrer pequenas alterações, o que possivelmente causará dificuldades ou até a impossibilidade de montagem.
+
